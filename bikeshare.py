@@ -13,6 +13,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
 def city_filter():
     """Fetch the city name from the user input"""
     # get user input for city (chicago, new york city, washington).
+    # comment 
     # HINT: Use a while loop to handle invalid inputs
      # this comment for test github.
     while True:
