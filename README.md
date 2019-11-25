@@ -4,8 +4,6 @@ This Project was created on 25 November, 2019.
 
 ### Project Title
 Bikeshare
-
-
 ### Description
 This project lets see the stats for Bike sharing in different cities based on 
 data stored in CSV files. You may filter on city, month, day to see desired stats.
